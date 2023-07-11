@@ -1,0 +1,15 @@
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\bin\Debug\net6.0\CampaingModel.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\bin\Debug\net6.0\CampaingModel.pdb
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\SHIREL\source\repos\MinimalAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

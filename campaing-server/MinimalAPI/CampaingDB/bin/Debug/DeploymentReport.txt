@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Campaing] (Table)
+       [dbo].[spCampaing_Delete] (Procedure)
+       [dbo].[spCampaing_Get] (Procedure)
+       [dbo].[spCampaing_GetAll] (Procedure)
+       [dbo].[spCampaing_Insert] (Procedure)
+       [dbo].[spCampaing_Update] (Procedure)
+
+** Supporting actions

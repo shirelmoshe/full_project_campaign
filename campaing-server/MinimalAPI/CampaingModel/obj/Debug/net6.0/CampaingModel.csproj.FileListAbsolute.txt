@@ -1,0 +1,12 @@
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\bin\Debug\net6.0\CampaingModel.deps.json
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\bin\Debug\net6.0\CampaingModel.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\bin\Debug\net6.0\CampaingModel.pdb
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\CampaingModel.csproj.AssemblyReference.cache
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\CampaingModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\CampaingModel.AssemblyInfoInputs.cache
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\CampaingModel.AssemblyInfo.cs
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\CampaingModel.csproj.CoreCompileInputs.cache
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\CampaingModel.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\refint\CampaingModel.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\CampaingModel.pdb
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingModel\obj\Debug\net6.0\ref\CampaingModel.dll

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="f936edfd-844d-4e53-abf0-394e7830c122" ChangeDateTime="04/30/2023 17:52:12">
+    <Property Name="ElementName" Value="[dbo].[Campaing].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Campaing]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="userId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6f092955-1ff3-424e-b59a-09257b007365" ChangeDateTime="04/30/2023 17:53:53">
+    <Property Name="ElementName" Value="[dbo].[Campaing].[I]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Campaing]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Img" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="cec70aa6-f68e-4152-a91e-d2cef299360d" ChangeDateTime="04/30/2023 17:54:05">
+    <Property Name="ElementName" Value="[dbo].[Campaing].[CampaignName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Campaing]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="campaignName" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="526c00bd-f258-4ce2-9ecb-ec2da8b706ac" ChangeDateTime="04/30/2023 17:54:07">
+    <Property Name="ElementName" Value="[dbo].[Campaing].[Img]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Campaing]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="img" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="200f26c6-4f02-4de0-aa1e-48a65fce48b3" ChangeDateTime="05/03/2023 15:24:41">
+    <Property Name="ElementName" Value="[dbo].[Donation].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Donation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="productsId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="03fe7311-3a13-4f9d-acab-8fdacd165573" ChangeDateTime="05/04/2023 12:58:49">
+    <Property Name="ElementName" Value="[dbo].[User].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="userId" />
+  </Operation>
+</Operations>

@@ -1,0 +1,25 @@
+/* index.css */
+
+/* Global styles */
+:root {
+  /* Define your global styles here */
+}
+
+/* Component-specific styles */
+/* You can also include component-specific styles in this file */
+
+/* Example global styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  margin-top: -500px;
+}
+
+/* Example component-specific styles */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}

@@ -1,0 +1,6 @@
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingDB\bin\Debug\CampaingDB.dacpac
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingDB\bin\Debug\CampaingDB.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingDB\bin\Debug\CampaingDB.pdb
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingDB\obj\Debug\CampaingDB.sqlproj.AssemblyReference.cache
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingDB\obj\Debug\CampaingDB.dll
+C:\Users\SHIREL\source\repos\MinimalAPI\CampaingDB\obj\Debug\CampaingDB.pdb

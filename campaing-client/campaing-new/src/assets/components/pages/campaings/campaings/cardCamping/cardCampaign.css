@@ -1,0 +1,57 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 24px;
+  background: #fff;
+  margin-bottom: 24px;
+}
+
+.box-top {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 36px;
+}
+
+.box-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: 50% 20%;
+}
+
+.title-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.box-title {
+  border-left: 3px solid var(--purple);
+  padding-left: 12px;
+}
+
+.user-follow-info {
+  color: hsl(0, 0%, 60%);
+}
+
+.description {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  color: #000;
+  background: transparent;
+  border: 1px solid #000;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.button:hover {
+  background-color: var(--purple);
+  color: #fff;
+}
